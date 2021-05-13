@@ -1,4 +1,4 @@
-## How to get GitHub Stars Contributions | RSS Feed | GitHub Star
+## How to get GitHub Stars Contributions
 
 Last year, GitHub launched the **GitHub Stars** [program](https://stars.github.com/) to thank GitHub’s most influential developers who have gone above and beyond in helping others in the community – **not only by maintaining repositories but by helping educate, inspire and influence others**.
 
