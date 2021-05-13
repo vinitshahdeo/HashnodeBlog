@@ -1,4 +1,4 @@
-# Hashnode Blog
+# Hashnode Blog | @[vinitshahdeo](https://hashnode.com/@vinitshahdeo)
 
 [![Hashnode blog - Vinit Shahdeo](https://img.shields.io/badge/Check%20out%20my%20blog%20on%20Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://vinitshahdeo.hashnode.dev/github-stars-feed)
 
