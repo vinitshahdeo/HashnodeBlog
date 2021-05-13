@@ -27,7 +27,7 @@ This repository is integrated with my [personal blog](https://vinitshahdeo.hashn
 
 I might be a little late to the party but I [started writing](https://twitter.com/Vinit_Shahdeo/status/1392832712059154432) on Hashnode from `May 13, 2020` - you may try out with the invite link: https://hashnode.com/@vinitshahdeo/joinme
 
-[![Hashnode blog - Vinit Shahdeo - Invite Link](https://img.shields.io/badge/Join%20Hashnode-87a7b3?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@vinitshahdeo/joinme)
+[![Hashnode blog - Vinit Shahdeo - Invite Link](https://img.shields.io/badge/Join%20Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@vinitshahdeo/joinme)
 
 ## I'm social :wave: 
 
