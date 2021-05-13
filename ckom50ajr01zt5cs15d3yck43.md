@@ -93,3 +93,4 @@ Let me know what do you build consuming  [`github-stars-feed`](https://github.co
 
 🍻
 Cheers:) 
+[![Follow @vinitshahdeo on GitHub](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=social)](https://github.com/vinitshahdeo/)
