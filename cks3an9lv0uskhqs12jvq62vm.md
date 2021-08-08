@@ -32,7 +32,7 @@ So, it turns out software engineers spend a lot of time collaborating across IM 
 
 At Postman, I work with `JavaScript` all of the time. Every six months or so, a new JS framework emerges, and I try to figure out how this new addition to the JS family is revolutionizing the world. The JS community on GitHub has been quite helpful to me. [Open Source](https://www.opensourceforu.com/2020/07/if-you-are-a-techie-your-home-page-should-be-github-not-instagram/) kept me on my toes and encouraged me to always strive to do better.
 
-[![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=flat)](https://github.com/vinitshahdeo/)
+[![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=flat&logo=github)](https://github.com/vinitshahdeo/)
 
 ### 4. Coding is a team sport 🤼
 
