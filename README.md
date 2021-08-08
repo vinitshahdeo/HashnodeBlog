@@ -9,6 +9,7 @@ This repository is integrated with my [personal blog](https://vinitshahdeo.hashn
 | Title  | Tags    |
 |--------|---------|
 | [How to get GitHub Stars Contributions](https://vinitshahdeo.hashnode.dev/github-stars-feed) - An open-sourced NPM module to get the latest GitHub Stars contributions (RSS Feed) | `#open-source` `#github` `#javascript` `#npm` `#nodejs` |
+| [10 lessons I've learned as a Software Engineer at Postman](https://vinitshahdeo.dev/10-lessons-learned-as-software-engineer-at-postman) | `#software-engineering` `#experience` |
 | **Many more to come!** You may choose to **[follow me on Hashnode](https://hashnode.com/@vinitshahdeo)** to never miss my upcoming articles!                                         | [![Follow vinitshahdeo on Hashnode](https://img.shields.io/badge/Follow%20@vinitshahdeo%20on%20Hashnode-2962FF?logo=hashnode&logoColor=white)](https://hashnode.com/@vinitshahdeo) |
 
 ## Other blogs
