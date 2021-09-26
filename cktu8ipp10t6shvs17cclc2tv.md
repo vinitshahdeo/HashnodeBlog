@@ -57,12 +57,14 @@ Are you a project maintainer? If so, please consider [submitting a PR](https://g
 
 Worry not! I don't want you to be the only one without a Hacktoberfest Tee! The [Hacktoberfest'21 repo](https://github.com/vinitshahdeo/Hacktoberfest2021) has everything you need to get started with open-source. You may get a sneak peek at some of the good first issues by [clicking here](https://github.com/vinitshahdeo/Hacktoberfest2021#beginner-friendly-issues).
 
+[![Join our Discord](https://img.shields.io/badge/Join-Discord-8CA1A5?logo=discord&logoColor=white)](https://discord.gg/HFbr3pnqxj)
+
 As a beginner, your duty is to:
 
 - 👀  **Keep an eye on the [repo](https://github.com/vinitshahdeo/Hacktoberfest2021).**
 - 🙌  **Find a mentor right [here](https://github.com/vinitshahdeo/Hacktoberfest2021/blob/main/MENTORS.md).**
 - 💬  **Start a discussion [here](https://github.com/vinitshahdeo/Hacktoberfest2021/discussions/1) if you happen to face issues.**
-- 🤝  **Join our community on [Discord](https://discord.gg/VABFEUWQ).** 
+- 🤝  **Join our community on [Discord](https://discord.gg/HFbr3pnqxj).** 
 - 📨  **Kindly [submit your details](https://forms.gle/GJSUTPBJ4Rw4DTMk9) to keep yourself updated.**
 - 🎙️  **Follow us on [Clubhouse](https://www.clubhouse.com/club/github-we-love-oss) to stay tuned!**
 
