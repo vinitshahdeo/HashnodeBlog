@@ -18,12 +18,15 @@ We have started an informal initiative to address the above queries and mentor t
 - **If you are a beginner, this blog will guide you on getting started with open source and finding the right mentor**, and 
 - **If you happen to be experienced in this field, we would be more than grateful to onboard you as a mentor**.
 
+%[https://twitter.com/Chiragagrwal7/status/1441820976065306625]
+
 39 people have already joined these quests to help beginners kickstart their open-source journey. We are compiling a list of [beginner-friendly issues](https://github.com/vinitshahdeo/Hacktoberfest2021#beginner-friendly-issues) so that the Hacktoberfest enthusiasts can get their minds playful. We are starting this open-source celebration journey with an optimistic vision of hitting the following number:
 
 - **100 Mentors**
 - **1000 Contributors**
 - **250 Repositories**
 - **500 Issues**
+- **50 Events**
 
 The aforementioned metrics are achievable if we become a workforce of approximately 100 mentors along with curious beginners and professionals. Currently, we’re 61 mentors short.
 
@@ -44,7 +47,7 @@ Your job as a mentor will be:
 - 💬 **engage with other community members.**
 - 🤝 **welcome and help others to finish the Hacktoberfest challenge.**
 
-[Join us](https://github.com/vinitshahdeo/Hacktoberfest2021#mentoring) in reaching the milestone of 100 mentors. Recommend anybody who is interested in making a difference. 
+[Join us](https://github.com/vinitshahdeo/Hacktoberfest2021#mentoring) in reaching the milestone of 100 mentors. Recommend anybody who is interested in making a difference. In case, you've missed the mentor's onboarding session, please [watch the recording](https://youtu.be/BMyVbZp8Gn8) on YouTube.
 
 ## Add your issues/repos 🙌
 
@@ -60,7 +63,10 @@ As a beginner, your duty is to:
 - 🙌  **Find a mentor right [here](https://github.com/vinitshahdeo/Hacktoberfest2021/blob/main/MENTORS.md).**
 - 💬  **Start a discussion [here](https://github.com/vinitshahdeo/Hacktoberfest2021/discussions/1) if you happen to face issues.**
 - 🤝  **Join our community on [Discord](https://discord.gg/VABFEUWQ).** 
+- 📨  **Kindly [submit your details](https://forms.gle/GJSUTPBJ4Rw4DTMk9) to keep yourself updated.**
 - 🎙️  **Follow us on [Clubhouse](https://www.clubhouse.com/club/github-we-love-oss) to stay tuned!**
+
+%[https://twitter.com/am_ruchika/status/1441971328676872197]
 
 ## Student communities ✨
 
