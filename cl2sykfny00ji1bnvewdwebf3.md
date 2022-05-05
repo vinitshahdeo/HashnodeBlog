@@ -77,6 +77,8 @@ Open source, he feels, kept him on his toes and inspired him to continuously str
 
 According to my fellow GitHub stars, it's not about how much time one spends on GitHub, but about the quality, and when you start treating your work like someone you care about, a daily visit is a necessity.
 
+**Becoming a GitHub Star was not a goal for any of us; it was a byproduct of a lot of hard work and making open source a huge part of our lives.**
+
 ***[Gina Häußge](https://stars.github.com/profiles/foosel/)*** would like to remind you all to take care of yourselves and to remember to breathe and rest; there is no need to rush. At the end of the day, it's all about how to constantly carry out your contribution to the community and you'll be rewarded for your efforts, which is impossible without proper health.
 
 ***[Eddie Jaoude](https://stars.github.com/profiles/eddiejaoude/)*** encourages his younger self to start learning in public sooner than he did since he realized along the way that it's better to start right away than to put off your interests for vague reasons, and when one understands what they truly want in life, they should never waste time to achieve it!
