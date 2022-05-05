@@ -101,6 +101,12 @@ When someone wants to start something new in their life, the only thing they see
 
 And hence, I'd like to ask you all to **[nominate someone as a GitHub Star](https://stars.github.com/nominate/)** in your knowledge whose journey inspires you and who has stood up and gone above & beyond for the community.
 
+Lastly, you may interact with GitHub Stars on Twitter and ask your queries. I have [tagged them in this tweet](https://twitter.com/Vinit_Shahdeo/status/1522227788278755328). ⬇️
+
+%[https://twitter.com/Vinit_Shahdeo/status/1522227788278755328]
+
+----
+
 I'd like to express my gratitude to my fellow **[GitHub Stars](https://stars.github.com/profiles/)** for sharing their remarkable experiences and the time they put in to do so. Along with this I also want to thank [Trilochna Vaid](https://www.linkedin.com/in/trilochnavaid/) for her assistance in drafting this article.
 
 **Happy Open Sourcing!** 🎉
