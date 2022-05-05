@@ -53,7 +53,7 @@ He has been working on open-source since at least the mid-1990s, and his major t
 Since 2008, he has been contributing to open-source projects and has been a part of some of the most outstanding and well-known projects, including Golang, Django, MongoDB, Riak, and many others. He's now working on creating a chronological database with git internals(tree structure).
 
 ## Alex Ellis
-A GitHub Star who abandoned his job in 2017 just to serve the community and support end-users spending the most of his working week on GitHub, from issue assistance to pushing code, bug fixes, and feature additions, producing block posts and documentation via GitHub Pages, and writing to his GitHub sponsors on the weekends.
+A GitHub Star who quit his job in 2017 just to serve the community and support end-users spending the most of his working week on GitHub, from issue assistance to pushing code, bug fixes, and feature additions, producing block posts and documentation via GitHub Pages, and writing to his GitHub sponsors on the weekends.
 He primarily makes transferable functions between cloud and on-premises environments, as well as unlocking limitations embedded into cloud functions such as timeouts, payload sizes, and supported languages.
 
 He gets feedback on what to build from the community and clients, including products like **arkade**, which makes constructing local Kubernetes setups easier than before. **K3sup** simplifies the installation of a small Kubernetes cluster, and inlets connect containers, Pods, and VMs to the Internet.
