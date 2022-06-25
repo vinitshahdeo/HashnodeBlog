@@ -6,6 +6,8 @@ I am again elated to share that I had the privilege of being [recognized as a Gi
 
 And, getting a glimpse of some of those journeys can help all aspiring people become the best version of themselves and be recognized as a GitHub Star. Hence, I've stuffed this article with the stories of 10 GitHub Stars so that you may relate to your aura and get a sense of what's cooking in the GitHub Star's pot and know what you may learn from them all.
 
+%[https://twitter.com/Vinit_Shahdeo/status/1531314545745985536]
+
 The [GitHub Star Program](https://stars.github.com/) symbolizes those who go above and beyond, elevating those who inspire and educate your communities. It is a single-source platform for all open-source admirers who are transforming the tech industry as a single-shared globe of source code that anyone can review, alter, and improve and is modifying technologies incredibly.
 
 According to my fellow GitHub Stars, open-source is something that gives developers,
